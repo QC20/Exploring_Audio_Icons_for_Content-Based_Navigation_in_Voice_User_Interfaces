@@ -1,2 +1,2 @@
-# Exploring_Audio_Icons_for_Content-Based_Navigation_in_Voice_User_Interfaces
+# Exploring Audio Icons for Content-Based Navigation in Voice User Interfaces
 A CUI'23 Paper
