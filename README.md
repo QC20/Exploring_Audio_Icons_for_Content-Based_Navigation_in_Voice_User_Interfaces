@@ -1,5 +1,5 @@
 # Exploring Audio Icons for Content-Based Navigation in Voice User Interfaces
-![A CUI'23 Paper](https://dl.acm.org/doi/abs/10.1145/3571884.3604302)
+[A CUI'23 Paper](https://dl.acm.org/doi/abs/10.1145/3571884.3604302)!
 
 ## Abstract
 Voice interaction is an increasingly popular technology, allowing users to control devices and applications without the need for physical interaction or ocular attention. Augmented voice playback control features, such as audio icons, have the potential to significantly improve voice navigation for instructional videos. This study evaluates audio icons for improving how-to video navigation in a Wizard-of-Oz-controlled setup with 24 participants assembling a wooden robot using a voice-controlled laptop. Results showed that audio icons helped participants complete the task faster, with fewer voice commands, and higher satisfaction. However, some usability challenges were observed. Significant differences in perceived usability were found between audio icons placed with visual points-of-action and the baseline, but not between the baseline and audio icons at 30-second intervals. These findings provide valuable insights for VUI system researchers and designers to advance the use of audio icons for improving voice interface navigation.
